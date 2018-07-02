@@ -13,6 +13,7 @@ someOtherfoler/
 *.so
 a.out
 *.so
+*.bmp
 
 # Packages #
 ############
